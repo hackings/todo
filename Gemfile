@@ -21,8 +21,6 @@ platform :ruby do
   gem 'mysql2'
 
   gem 'newrelic_rpm'
-  gem 'unicorn'
-  gem 'puma'
   gem 'json'
   gem 'minitest'
   gem 'psych'
